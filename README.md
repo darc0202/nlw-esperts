@@ -1,6 +1,6 @@
 # nlw-esperts
 
-## Tecnologias Utilizads
+## Tecnologias Utilizadas
 
 -HTML
 -CSS
